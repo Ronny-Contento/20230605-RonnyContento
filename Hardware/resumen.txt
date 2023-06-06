@@ -1,0 +1,3 @@
+1. memoria Ram
+2. Placa Madre
+3. Disco duro
